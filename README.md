@@ -1,2 +1,2 @@
 # Self_studying
-Self studying about Python
+Self studying
